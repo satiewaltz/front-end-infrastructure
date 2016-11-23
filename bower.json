@@ -1,9 +1,0 @@
-{
-    "name": "html.extension",
-    "homepage": "https://github.com/lzsoft/html.extension.js",
-    "authors": [ "JingAn Chen <lzsoft.cja@gmail.com>" ],
-    "description": "This is a Front-End \"window\" object extension. It provides some convenient extended functions for window.Math, window.NodeList and so on.",
-    "main": "html.extension.js",
-    "keywords": [ "window", "extension", "NodeList" ],
-    "license": "MIT"
-}

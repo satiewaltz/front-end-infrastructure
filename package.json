@@ -1,0 +1,16 @@
+{
+    "name": "html-extension",
+    "version": "1.1.2",
+    "description": "This is a custom element that extends existing window object. Providing convenient functions to window.Math, window.NodeList and so on.",
+    "keywords": [ "window", "browser", "Math", "NodeList", "web-components" ],
+    "main": "html.extension.html",
+    "author": {
+        "name": "JingAn Chen",
+        "email": "lzsoft.cja@gmail.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lzsoft/html.extension.git"
+    }
+}
