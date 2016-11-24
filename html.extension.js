@@ -28,7 +28,7 @@ window.NodeList.prototype.remove = function () {
 };
 window.NodeList.prototype.exec = function (callback) {
     for (var i = 0; i < this.length; i++) {
-        callback.call(this[i]);
+        callback(this[i]);
     }
     return this;
 };

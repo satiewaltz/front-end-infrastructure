@@ -1,6 +1,6 @@
 {
     "name": "html-extension",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "description": "This is a custom element that extends existing window object. Providing convenient functions to window.Math, window.NodeList and so on.",
     "keywords": [ "window", "browser", "Math", "NodeList", "web-components" ],
     "main": "html.extension.html",
