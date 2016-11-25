@@ -1,6 +1,6 @@
 {
     "name": "front.end.infrastructure",
-    "version": "1.0.2",
+    "version": "1.0.5",
     "description": "This is a custom element that provides many basic infrastructure for Front-End, including math/nodeList extension and API communication.",
     "keywords": [ "window", "browser", "Math", "NodeList", "api", "web-components" ],
     "main": "front.end.infrastructure.html",
