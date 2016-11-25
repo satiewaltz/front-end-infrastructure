@@ -1,10 +1,10 @@
 {
-    "name": "html.extension",
+    "name": "front.end.infrastructure",
     "description": "This is a custom element that extends existing window object. Providing convenient functions to window.Math, window.NodeList and so on.",
-    "main": "html.extension.html",
+    "main": "front.end.infrastructure.html",
     "authors": [ "JingAn Chen" ],
     "license": "MIT",
     "keywords": [ "window", "browser", "Math", "NodeList", "web-components" ],
-    "homepage": "https://github.com/lzsoft/html.extension",
+    "homepage": "https://github.com/lzsoft/front.end.infrastructure",
     "ignore": [ "**/.*", "node_modules", "bower_components", "test", "tests" ]
 }
