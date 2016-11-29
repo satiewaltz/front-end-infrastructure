@@ -4,5 +4,5 @@ window.location.staticAssign = function (val) {
 };
 window.location.pathLastSection = function () {
     let path = window.location.path;
-    return window.location.path.split('/').pop();
+    return window.location.pathname.split('/').pop();
 };
