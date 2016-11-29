@@ -6,5 +6,5 @@
     "license": "MIT",
     "keywords": ["window", "browser", "Math", "NodeList", "web-components"],
     "homepage": "https://github.com/lzsoft/front.end.infrastructure",
-    "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests", "publish.bat", "readme.md"],
+    "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests", "publish.bat", "readme.md"]
 }
